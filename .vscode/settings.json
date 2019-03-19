@@ -1,0 +1,5 @@
+{
+  "editor.formatOnPaste": true,
+  "eslint.autoFixOnSave": false,
+  "editor.formatOnSave": true,
+}
